@@ -1,0 +1,5 @@
+name: LobbyAPI
+main: me.gerpaderp.lobbyapi.LobbyAPIMain
+version: 1.0
+author: Gerpaderp
+api-version: 1.16
